@@ -1,0 +1,6 @@
+node_modules/
+dist/
+data/state/
+.env
+.vite/
+coverage/
